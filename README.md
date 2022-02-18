@@ -38,5 +38,5 @@ Below table can give action plan for particular trend.
 
 
 ## Page Screenshot
+![screencapture-niftychain-herokuapp-2019-11-18-21_44_16](https://user-images.githubusercontent.com/54473532/154702486-ad84d2a0-2227-4b35-a6ae-a6c6464c7696.png)
 
-![alt text](https://raw.githubusercontent.com/aadityatamrakar/option_chain_analysis/master/screencapture-niftychain-herokuapp-2019-11-18-21_44_16.png)
