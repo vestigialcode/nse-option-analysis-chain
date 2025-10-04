@@ -1,3 +1,7 @@
+// Scraping is best option
+// Dont go for async
+
+
 const {
   exec,
   spawn
