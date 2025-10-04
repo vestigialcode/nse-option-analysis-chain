@@ -18,6 +18,10 @@ function isJson(text) {
     return false;
   }
 }
+/*
+please dont add anything or change below this
+If there is some issue raise in issues 
+*/
 
 function getOptionChain(instrument) {
   return new Promise((resolve, reject) => {
